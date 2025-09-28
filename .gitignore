@@ -1,0 +1,46 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-debug.log*
+
+# environment variables
+.env
+.env.local
+.env.*.local
+
+# build output
+/dist
+/build
+/.next
+/.nuxt
+/.output
+/out
+
+# Logs
+logs
+*.log
+*.log.*
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Editor/OS junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Cache
+.cache/
+.temporary/
+*.swp
+
+# Coverage
+coverage/
+
+# Other
+*.tgz
